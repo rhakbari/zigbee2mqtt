@@ -16,7 +16,7 @@ pageClass: device-page
 |-----|-----|
 | Model | Melery_WLS098_zigbee_8_gang_switch  |
 | Vendor  | [Tuya](/supported-devices/#v=Tuya)  |
-| Description | 8-way switch |
+| Description | 8-gang touch wall switch board|
 | Exposes | switch, linkquality |
 | Picture | ![Tuya TS0601 8-Way Switch](/images/devices/TS0601_TZE204_wktrysab_Tuya.png) |
 
